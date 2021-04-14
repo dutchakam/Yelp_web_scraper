@@ -1,3 +1,7 @@
+# @Time    : 2021/04/14 15:00
+# @Author  : alexanderdutchak@gmail.com
+# @Software: PyCharm
+
 import requests
 from bs4 import BeautifulSoup
 import time
